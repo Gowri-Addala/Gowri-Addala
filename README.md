@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gowri-Addala
 - 👀 I’m interested in Azure DevOps
-- 🌱 I’m currently learning K8's
+- 🌱 I’m currently learning Python, Powershell, Docker,...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asgmahalakshmi@gmail.com
 
